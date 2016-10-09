@@ -6,6 +6,6 @@ node {
 	echo 'Goodbye Mr Leadel Ngalame'
 
 	stage 'Welcome'
-	echo 'Welcome Home Mr Leadel'
-	echo 'Just for Testing Testing Testing'
+	echo 'Welcome Home Nicole Baby'
+	echo 'Just for Testing '
 }
